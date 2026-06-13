@@ -1,4 +1,4 @@
-# Python Learning Journey 
+# Python Learning 
 
 This repository contains my Python practice programs while learning from basics.
 
