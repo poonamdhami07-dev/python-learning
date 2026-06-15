@@ -19,6 +19,12 @@ for i in range(1,number+1):
     if i%2!=0:
         print(i)
 
+#printing specfic number series
+print("Specific Number Series in differnce of 3")
+number = int(input("How long number series you want to print: "))
+for i in range(1,number,3):
+    print(i)
+
 #printing name and checking if it starts with vowel or consonant
 print("Your name ")
 name = str(input("Enter your first name: "))
