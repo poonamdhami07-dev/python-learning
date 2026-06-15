@@ -3,7 +3,7 @@ print(len(a))
 print(a.upper())
 print(a.lower())
 print(a.capitalize())
-b= "!!!jPoonam!!"
+b= "!!!Poonam Poonam!!"
 print(b.rstrip("!"))
 print(a.replace("Poonam", "Pooh"))
 print(a.split("o"))
@@ -19,7 +19,7 @@ print(a.isalnum())
 print(b.isalpha())
 print(b.isalnum())
 print(a.isdigit()) 
-c="Poonam is a good girl.\n"
+c="I am a CSE student.\n"
 print(c)
 print(c.swapcase())
 print(c.isprintable())

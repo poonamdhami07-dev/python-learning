@@ -18,7 +18,7 @@ print("Your age is:", age)
 
 i= '''HI 
 My name is Poonam.
-I am 18 years old.'''
+I am CSE student.'''
 print(i)
 for character in i:
     print(character)    
