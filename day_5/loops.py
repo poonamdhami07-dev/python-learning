@@ -1,4 +1,4 @@
-#loops
+#for loops
 #printing number series
 print("Number Series")
 number = int(input("How long number series you want to print: "))
@@ -41,6 +41,22 @@ else:
     print("Please enter a valid name.")
 
 
+#while loops
+i = 0
+while i < 6:
+    print(i)
+    i += 1
 
 
+i = int(input("Enter a number: "))
+while i < 10:
+    if i < 10:
+        print(i)
+        i += 1
 
+count = 5
+while count > 0:
+    print(count)
+    count -= 1
+else:
+    print("Countdown complete!")
