@@ -60,3 +60,17 @@ while count > 0:
     count -= 1
 else:
     print("Countdown complete!")
+
+#break and continue statements
+
+for i in range(12):
+    if i == 5:
+        break
+    #break ke niche wala code skip ho jata hai aur loop se bahar aa jata hai
+    print("5 X", i, "=", 5*i)
+
+for i in range(12):
+    if i == 5:
+        continue
+    #continue ke niche wala code skip ho jata hai aur loop ke next iteration me chala jata hai
+    print("5 X", i, "=", 5*i)
